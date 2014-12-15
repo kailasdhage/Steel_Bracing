@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Pipes>
+  <Pipe Weight = "0.63"     OD = "9.7"      Thickness = "2.24" >6 NB</Pipe>
+  <Pipe Weight = "0.84"     OD = "13.1"     Thickness = "2.31" >10 NB</Pipe>
+  <Pipe Weight = "1.26"     OD = "16.3"     Thickness = "2.77">15 NB</Pipe>
+  <Pipe Weight = "1.68"     OD = "21.7"     Thickness = "2.87">20 NB</Pipe>
+  <Pipe Weight = "2.5"     OD = "27.4"      Thickness = "3.38">25 NB</Pipe>
+  <Pipe Weight = "3.38"     OD = "35.2"     Thickness = "3.56">32 NB</Pipe>
+  <Pipe Weight = "4.04"     OD = "41.3"     Thickness = "3.68">40 NB</Pipe>
+  <Pipe Weight = "5.43"     OD = "53.3"     Thickness = "3.91">50 NB</Pipe>
+  <Pipe Weight = "8.62"     OD = "63"       Thickness = "5.16">65 NB</Pipe>
+  <Pipe Weight = "11.28"     OD = "78.9"     Thickness = "5.49">75 NB</Pipe>
+  <Pipe Weight = "13.46"     OD = "90.6"     Thickness = "5.7">90 NB</Pipe>
+  <Pipe Weight = "16.06"     OD = "102.3"     Thickness = "6.02">100 NB</Pipe>
+  <Pipe Weight = "21.74"     OD = "128.3"     Thickness = "6.55">125 NB</Pipe>
+  <Pipe Weight = "28.23"     OD = "154.3"     Thickness = "7.11">150 NB</Pipe>
+  <Pipe Weight = "42.51"     OD = "203.1"     Thickness = "8.18">200 NB</Pipe>
+  <Pipe Weight = "60.23"     OD = "255"     Thickness = "9.27">250 NB</Pipe>
+  <Pipe Weight = "73.74"     OD = "304.9"     Thickness = "9.52">300 NB</Pipe>
+  <Pipe Weight = "81.17"     OD = "336.6"     Thickness = "9.52">350 NB</Pipe>
+  <Pipe Weight = "93.09"     OD = "387.4"     Thickness = "9.52">400 NB</Pipe>
+  <Pipe Weight = "105.01"     OD = "338.2"     Thickness = "9.52">450 NB</Pipe>
+  <Pipe Weight = "116.92"     OD = "489"     Thickness = "9.52">500 NB</Pipe>
+  <Pipe Weight = "128.84"     OD = "539.8"     Thickness = "9.52">550 NB</Pipe>
+  <Pipe Weight = "140.75"     OD = "590.6"     Thickness = "9.52">600 NB</Pipe>
+  <Pipe Weight = "152.73"     OD = "641"     Thickness = "9.53">650 NB</Pipe>
+  <Pipe Weight = "164.71"     OD = "692"     Thickness = "9.53">700 NB</Pipe>
+  <Pipe Weight = "176.5"     OD = "743"     Thickness = "9.52">750 NB</Pipe>
+  <Pipe Weight = "188.66"     OD = "794"     Thickness = "9.53">800 NB</Pipe>
+  <Pipe Weight = "200.63"     OD = "845"     Thickness = "9.53">850 NB</Pipe>
+  <Pipe Weight = "212.25"     OD = "895.4"     Thickness = "9.52">900 NB</Pipe>
+  <Pipe Weight = "224.35"     OD = "946"     Thickness = "9.53">950 NB</Pipe>
+  <Pipe Weight = "236.33"     OD = "997"     Thickness = "9.53">1000 NB</Pipe>
+  <Pipe Weight = "248.3"     OD = "1048"     Thickness = "9.53">1050 NB</Pipe>
+  <Pipe Weight = "260.28"     OD = "1099"     Thickness = "9.53">1100 NB</Pipe>
+</Pipes>

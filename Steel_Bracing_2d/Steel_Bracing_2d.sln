@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Steel_Bracing_2d", "Steel_Bracing_2d\Steel_Bracing_2d.csproj", "{CDBFC2D6-1E61-424F-B35E-B7D785DF2011}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDBFC2D6-1E61-424F-B35E-B7D785DF2011}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDBFC2D6-1E61-424F-B35E-B7D785DF2011}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDBFC2D6-1E61-424F-B35E-B7D785DF2011}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDBFC2D6-1E61-424F-B35E-B7D785DF2011}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

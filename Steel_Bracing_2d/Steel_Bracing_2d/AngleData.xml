@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<EqualAngles>
+  <EqualAngle Weight = "3.5"  CGLine = "12.0"  BoltLine = "21">40x6</EqualAngle>
+  <EqualAngle Weight = "4.5"  CGLine = "14.5"  BoltLine = "28">50x6</EqualAngle>
+  <EqualAngle Weight = "5.8"  CGLine = "18.1"  BoltLine = "35">65x6</EqualAngle>
+  <EqualAngle Weight = "6.1"  CGLine = "19.1"  BoltLine = "35">65x8</EqualAngle>
+  <EqualAngle Weight = "6.8"  CGLine = "20.6"  BoltLine = "40">75x6</EqualAngle>
+  <EqualAngle Weight = "8.9"  CGLine = "21.4"  BoltLine = "40">75x8</EqualAngle>
+  <EqualAngle Weight = "8.2"  CGLine = "24.2"  BoltLine = "50">90x6</EqualAngle>
+  <EqualAngle Weight = "10.8" CGLine = "25.1"  BoltLine = "50">90x8</EqualAngle>
+  <EqualAngle Weight = "13.4" CGLine = "25.9"  BoltLine = "50">90x10</EqualAngle>
+  <EqualAngle Weight = "9.2"  CGLine = "26.7"  BoltLine = "60">100x6</EqualAngle>
+  <EqualAngle Weight = "12.1" CGLine = "27.6"  BoltLine = "60">100x8</EqualAngle>
+  <EqualAngle Weight = "14.9" CGLine = "28.4"  BoltLine = "60">100x10</EqualAngle>
+  <EqualAngle Weight = "17.7" CGLine = "29.2"  BoltLine = "65">100x12</EqualAngle>
+  <EqualAngle Weight = "13.4" CGLine = "30.0"  BoltLine = "65">110x8</EqualAngle>
+  <EqualAngle Weight = "16.5" CGLine = "30.8"  BoltLine = "65">110x10</EqualAngle>
+  <EqualAngle Weight = "19.6" CGLine = "31.6"  BoltLine = "65">110x12</EqualAngle>
+  <EqualAngle Weight = "15.9" CGLine = "35.0"  BoltLine = "80">130x8</EqualAngle>
+  <EqualAngle Weight = "19.7" CGLine = "35.8"  BoltLine = "80">130x10</EqualAngle>
+  <EqualAngle Weight = "23.4" CGLine = "36.6"  BoltLine = "80">130x12</EqualAngle>
+  <EqualAngle Weight = "22.8" CGLine = "40.6"  BoltLine = "90">150x10</EqualAngle>
+  <EqualAngle Weight = "27.2" CGLine = "41.4"  BoltLine = "90">150x12</EqualAngle>
+  <EqualAngle Weight = "35.7" CGLine = "43.0"  BoltLine = "90">150x16</EqualAngle>
+  <EqualAngle Weight = "48.5" CGLine = "55.6"  BoltLine = "90">150x20</EqualAngle>
+  <EqualAngle Weight = "36.6" CGLine = "53.6"  BoltLine = "115">200x12</EqualAngle>
+  <EqualAngle Weight = "48.5" CGLine = "55.6"  BoltLine = "115">200x16</EqualAngle>
+  <EqualAngle Weight = "60"   CGLine = "57.1"  BoltLine = "115">200x20</EqualAngle>
+</EqualAngles>

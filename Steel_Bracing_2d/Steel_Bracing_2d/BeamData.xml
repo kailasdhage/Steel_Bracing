@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Beams>
+  <Beam Weight = "13.3"   WebThickness = "5"       FlangeThickness = "8"     FlangeHole = "35">125x70</Beam>
+  <Beam Weight = "15"     WebThickness = "5"       FlangeThickness = "8"     FlangeHole = "40">150x75</Beam>
+  <Beam Weight = "24.2"   WebThickness = "5.7"     FlangeThickness = "10"    FlangeHole = "55">200x100</Beam>
+  <Beam Weight = "37.3"   WebThickness = "6.9"     FlangeThickness = "12.5"  FlangeHole = "65">250x125</Beam>
+  <Beam Weight = "46"     WebThickness = "7.7"     FlangeThickness = "13.1"  FlangeHole = "80">300x140</Beam>
+  <Beam Weight = "52.4"   WebThickness = "8.1"     FlangeThickness = "14.2"  FlangeHole = "80">350x140</Beam>
+  <Beam Weight = "61.5"   WebThickness = "8.9"     FlangeThickness = "16"    FlangeHole = "80">400x140</Beam>
+  <Beam Weight = "72.4"   WebThickness = "9.4"     FlangeThickness = "17.4"  FlangeHole = "90">450x150</Beam>
+  <Beam Weight = "86.9"   WebThickness = "10.2"    FlangeThickness = "17.2"  FlangeHole = "100">500x180</Beam>
+  <Beam Weight = "123"    WebThickness = "12"      FlangeThickness = "20.3"  FlangeHole = "100">600x210</Beam>
+</Beams>

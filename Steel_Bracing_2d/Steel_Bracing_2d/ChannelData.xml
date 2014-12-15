@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Channels>
+  <Channel    Weight = "7.14"      FlangeThickness = "7.5"     WebThickness = "4.8"   FlangeHole = "25">75x40</Channel>
+  <Channel    Weight = "9.56"      FlangeThickness = "7.7"     WebThickness = "5"     FlangeHole = "30">100x50</Channel>
+  <Channel    Weight = "13.1"      FlangeThickness = "8.2"     WebThickness = "5.3"   FlangeHole = "35">125x65</Channel>
+  <Channel    Weight = "16.8"      FlangeThickness = "9"       WebThickness = "5.7"  FlangeHole = "40">150x75</Channel>
+  <Channel    Weight = "22.3"      FlangeThickness = "11.4"    WebThickness = "6.2"  FlangeHole = "40">200x75</Channel>
+  <Channel    Weight = "30.6"      FlangeThickness = "14.1"    WebThickness = "7.2"  FlangeHole = "45">250x80</Channel>
+  <Channel    Weight = "36.3"      FlangeThickness = "13.6"    WebThickness = "7.8"  FlangeHole = "50">300x90</Channel>
+  <Channel    Weight = "42.7"      FlangeThickness = "13.5"    WebThickness = "8.3"  FlangeHole = "60">350x100</Channel>
+  <Channel    Weight = "50.1"      FlangeThickness = "15.3"    WebThickness = "8.8"  FlangeHole = "60">400x100</Channel>
+</Channels>
